@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name        Terminator
-// @description Terminator - Chat optimizator
-// @author      Semanticworld
+// @name        ChatFilter
+// @description ChatFilter - Chat optimizator
+// @author      Semanticworld,MemchachedAG (v0.0.0.22) TornadoSN (v2.0.0.22)
 // @version     2.0.0.22
 // @updateURL   https://tornadosn.github.io/ChatFilter/terminator.user.js
 // @icon        https://tornadosn.github.io/ChatFilter/assets/ico/ico128.png
