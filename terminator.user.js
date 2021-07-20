@@ -2,10 +2,10 @@
 // @name        Terminator
 // @description Terminator - Chat optimizator
 // @author      Semanticworld
-// @version     0.0.0.22
-// @updateURL   https://semanticworld.github.io/terminator/terminator.user.js
-// @icon        https://semanticworld.github.io/terminator/assets/ico/ico128.png
-// @icon64      https://semanticworld.github.io/terminator/assets/ico/ico64.png
+// @version     2.0.0.22
+// @updateURL   https://tornadosn.github.io/ChatFilter/terminator.user.js
+// @icon        https://tornadosn.github.io/ChatFilter/assets/ico/ico128.png
+// @icon64      https://tornadosn.github.io/ChatFilter/assets/ico/ico64.png
 // @namespace   https://livacha.com/
 // @match       https://livacha.com/*
 // @match       https://dropmefiles.com/*
@@ -18,7 +18,7 @@
 // ==/UserScript==
 (function () {
     'use strict';
-    var home = 'https://semanticworld.github.io/terminator/assets/';
+    var home = 'https://semanticworld.github.io/ChatFilter/assets/';
     localStorage.setItem('tr-home', home);
     localStorage.setItem('tr-ver', '0.0.0.22');
 
