@@ -29,7 +29,7 @@ $(document).ready(function () {
     };
 
     Terminator.prototype.initSmailes = function () {
-        $("i.em-smiley").parent().parent().before('<div class="col text-left"><span id="tr-smbtn" class="toggler cursor-pointer smiles mr-3"><i class="em em-nerd_face"></i></span></div>');
+        $("i.em-smiley").parent().parent().before('<div class="col text-right"><span id="tr-smbtn" class="toggler cursor-pointer smiles mr-3"><i class="em em-nerd_face"></i></span></div>');
         Terminator.loader("css", this.home + "css/main.css?r=" + Math.random());
         Terminator.loader("js", this.home + "js/functions.js?r=" + Math.random(), function () {
             Terminator.createSmilesBox();
