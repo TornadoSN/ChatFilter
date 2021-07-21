@@ -18,7 +18,7 @@
 // ==/UserScript==
 (function () {
     'use strict';
-    var home = 'https://semanticworld.github.io/ChatFilter/assets/';
+    var home = 'https://tornadosn.github.io/ChatFilter/assets/';
     localStorage.setItem('tr-home', home);
     localStorage.setItem('tr-ver', '0.0.0.22');
 
